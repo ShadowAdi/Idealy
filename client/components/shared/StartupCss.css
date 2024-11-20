@@ -1,0 +1,19 @@
+.tab{
+    background-image: linear-gradient(120deg, #e4572eff 0%, #ee964bff 100%);
+    
+}
+
+
+.CategoryTab{
+    background-image: linear-gradient(to right, #e4572eff 0%, #ee964bff 100%);
+}
+
+.IsActive{
+    background-image: linear-gradient(to top, #1fbe91 0%, #3c8ab8 100%);}
+
+.Funding{
+    background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%);}
+
+.AgeGroup{
+    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
