@@ -184,8 +184,3 @@ This project is licensed under the MIT License.
 ![SingleStartup Image](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/SingleStartup.png)
 ![CommentSection Image](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/CommentSection.png)
 ![Video Idealy](https://res.cloudinary.com/shadowaditya/video/upload/v1732100203/bjftp16dgd4vasmapbsh.mp4)
-
-
-
-
-
