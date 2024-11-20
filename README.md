@@ -176,5 +176,17 @@ This project is licensed under the MIT License.
 
 
 ### Some Demo Videos and Images
+![Home Image](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/Home.png)
+![Profile Image](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/Profile.png)
+![Login Image](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/Login.png)
+![ProfileStartups Image](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/ProfileStartups.png)
+![StartupAll Image](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/StartupAll.png)
+![SingleStartup Image](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/SingleStartup.png)
+![CommentSection Image](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/CommentSection.png)
+![Video Idealy](https://raw.githubusercontent.com/ShadowAdi/Idealy/refs/heads/master/Idealy.mp4)
+
+
+
+
 
 
